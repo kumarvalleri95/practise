@@ -1,0 +1,61 @@
+.bg
+{
+    background-color: hsl(185, 75%, 39%);   
+    width: 100%;
+    height: 800px;
+}
+
+.flex-container 
+{
+    display: flex;
+    justify-content: center;
+    height: 650px;
+    align-items: center;
+    align-content: space-around;
+}
+
+.imagecard
+{
+    position: absolute;
+    bottom:25px ; 
+    right:100px ; 
+    border: 6px solid white
+}
+
+.imagebody
+{
+    text-align: center;
+    position: relative;
+}
+
+.texts
+{
+    text-align: center;
+    position: relative;
+    bottom:25px ; 
+    
+}
+.text2
+{
+    text-align: center;
+    position: relative;
+    bottom:20px ; 
+    color: grey;
+}
+.text3
+{
+    
+    position: relative;
+    bottom:10px ; 
+    font-weight: bold;
+    color: black;
+    
+}
+.text4
+{
+    
+    position: relative;
+    bottom:8px ; 
+    color: black;
+    
+}
